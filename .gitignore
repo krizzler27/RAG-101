@@ -1,0 +1,8 @@
+*.db
+chroma.db/
+
+.venv/
+.env
+
+query_translation_res.md
+rag_input_docs/
