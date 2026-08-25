@@ -1,6 +1,6 @@
 *.db
 chroma.db/
-
+pylate-index
 .venv/
 .env
 
