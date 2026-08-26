@@ -11,10 +11,13 @@ dependencies = [
     "langchain-core>=1.5.5",
     "langchain-ollama>=1.1.0",
     "langchain-text-splitters>=1.1.2",
+    "langgraph>=1.2.11",
     "nltk>=3.10.3",
     "numpy>=2.5.2",
     "pylate>=1.6.0",
     "pypdf>=6.16.1",
+    "tavily>=1.1.0",
+    "tiktoken>=0.14.0",
     "trafilatura>=2.2.0",
     "unstructured>=0.25.2",
 ]
